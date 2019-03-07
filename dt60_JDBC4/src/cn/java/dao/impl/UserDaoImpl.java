@@ -34,6 +34,10 @@ import cn.java.utils.JdbcUtil;
  * @version
  * @see
  */
+
+
+
+//哈哈，张三到此一游
 public class UserDaoImpl {
     private QueryRunner qr = new QueryRunner();
 
